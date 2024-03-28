@@ -13,7 +13,7 @@ const Footer = () => {
           <p style={{ fontSize: '12px', fontFamily: 'Poppins, sans-serif' }}>Correo electrónico: contacto@elhuerto.cl</p>
         </div>
         <div className="col-sm">
-          <p style={{ fontSize: '12px', fontFamily: 'Poppins sans-serif' }}>Horario de atención:</p>
+          <p style={{ fontSize: '12px', fontFamily: 'Poppins, sans-serif' }}>Horario de atención:</p>
           <p style={{ fontSize: '12px', fontFamily: 'Poppins, sans-serif' }}>De lunes a sábados de 9am a 11pm.</p>
           <p style={{ fontSize: '12px', fontFamily: 'Poppins, sans-serif'  }}>Domingo de 9am a 4pm.</p>
         </div>
