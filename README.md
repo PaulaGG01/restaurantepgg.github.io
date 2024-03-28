@@ -14,7 +14,7 @@ El proyecto fue desarrollado con la biblioteca de Javascript React y también se
 
 ## **2. Página web de restaurante "El Huerto":**
 
-Para el desarrollo de este trabajo, opté por elaborar una página web para el restaurante “El Huerto”, por lo cual utilicé la paleta de colores del restaurante, su logo y las imagenes de sus productos, reformulando los restantes elementos del diseño para elborar su nueva página web.
+Para el desarrollo de este trabajo, opté por elaborar una página web para el restaurante “El Huerto”, por lo cual utilicé la paleta de colores del restaurante, su logo y las imagenes de sus productos, reformulando los restantes elementos del diseño para elaborar su nueva página web.
 
 
 ### **- Link de página web:**
