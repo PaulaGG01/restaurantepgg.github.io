@@ -11,7 +11,7 @@ const titleStyle = {
 
 const subtitleStyle = {
   fontFamily: 'Poppins, sans-serif', // Cambia la fuente del texto
-  color: '#547d72', // Cambia el color del texto
+  color: '#ffffff', // Cambia el color del texto
   fontWeight: '', // Establece el peso de la fuente a normal
   lineHeight: '1.5', // Cambia la altura de la línea
 };
